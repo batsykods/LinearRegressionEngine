@@ -1,6 +1,6 @@
 # Linear Regression Engine in C++
 
-A machine learning engine built completely from scratch using C++.
+A machine learning engine built completely  using C++.
 
 ## Features
 
